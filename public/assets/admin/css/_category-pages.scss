@@ -1,0 +1,686 @@
+.categories-section {
+    .category-distribution-card {
+        min-height: 340px;
+        @media (max-width: $medium) {
+            min-height: auto;
+        }
+        .img-with-progress {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+            &:last-child {
+                margin-bottom: 0px;
+            }
+            .category-img-wrap {
+                width: 70px;
+                height: 50px;
+                border-radius: 4px;
+                overflow: hidden;
+                position: relative;
+                margin-right: 15px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    margin: auto;
+                    max-width: 100%;
+                    max-height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .progress {
+                &.cstm-progress {
+                    flex: 1;
+                    margin-bottom: 20px;
+                    .progress-top-wrap {
+                        .progress-title {
+                            font-size: 14px;
+                        }
+                        .progressbar-value {
+                            position: relative;
+                            span {
+                                width: 10px;
+                                height: 5px;
+                                display: inline-block;
+                                position: relative;
+                                top: -2px;
+                                &.down-status {
+                                    background-image: url('../../admin/images/short-up-gray.svg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-size: 100%;
+                                    width: 7px;
+                                    height: 6px;
+                                }
+                                &.up-status {
+                                    background-image: url('../../admin/images/short-up-gray.svg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-size: 100%;
+                                    width: 7px;
+                                    height: 6px;
+                                    transform: rotate(180deg);
+                                }
+                                &.none-status {
+                                    background-image: url('../../admin/images/icon-dash.svg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-size: 100%;
+                                    width: 7px;
+                                    height: 6px;
+                                }
+                            }
+                        }
+                    }
+                    .total-value {
+                        position: absolute;
+                        bottom: -15px;
+                        font-size: 12px;
+                        color: $gray;
+                    }
+                }
+            }
+        }
+    }
+    .categories-card-box {
+        background-color: $light-gray-shade-3;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        .categories-img-with-name {
+            position: relative;
+            width: 100%;
+            height: 160px;
+            overflow: hidden;
+            &:after {
+                content: '';
+                background-color: rgba(0, 0, 0, 0.45);
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+                max-width: 100%;
+                max-height: 100%;
+                object-fit: cover;
+                z-index: 1;
+            }
+            img {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+                max-width: 100%;
+                max-height: 100%;
+                object-fit: cover;
+            }
+            .categories-name {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin: auto;
+                font-size: 25px;
+                font-weight: bold;
+                text-transform: uppercase;
+                color: $white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                object-position: top;
+                text-align: center;
+                padding: 0px 15px;
+                z-index: 11;
+            }
+        }
+        .categories-card-box-detail {
+            padding: 15px 25px 15px;
+            .progress {
+                &.cstm-progress {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+    .add-categories-card {
+        .white-card {
+            padding: 30px 30px 20px;
+            text-align: center;
+            .icon-wrap {
+                width: 94px;
+                height: 94px;
+                margin: auto;
+                margin-bottom: 5px;
+                position: relative;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    margin: auto;
+                    max-width: 100%;
+                    max-height: 100%;
+                }
+            }
+            .caption {
+                font-size: 14px;
+                font-weight: bold;
+                margin: 18px auto 24px;
+            }
+            .btn-wrap {
+                flex-wrap: wrap;
+            }
+        }
+    }
+    &.sub-categories-section {
+        .titlebar {
+            margin-bottom: 35px;
+            .link-wrap {
+                .nav-tab-style {
+                    .nav-item {
+                        .nav-link {
+                            min-width: 50px;
+                            &.active {
+                                .list-view-icon {
+                                    background: url('../../admin/images/icon-list-view-white.svg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-size: 15px;
+                                    width: 16px;
+                                    height: 10px;
+                                }
+                                .grid-view-icon {
+                                    background: url('../../admin/images/icon-grid-view.svg');
+                                    background-repeat: no-repeat;
+                                    background-position: center;
+                                    background-size: 12px;
+                                    width: 12px;
+                                    height: 12px;
+                                }
+                            }
+                            .list-view-icon {
+                                background: url('../../admin/images/icon-list-view.svg');
+                                background-repeat: no-repeat;
+                                background-position: center;
+                                background-size: 15px;
+                                width: 16px;
+                                height: 10px;
+                                display: block;
+                                margin: auto;
+                                top: 3px;
+                                position: relative;
+                            }
+                            .grid-view-icon {
+                                background: url('../../admin/images/icon-grid-view-gray.svg');
+                                background-repeat: no-repeat;
+                                background-position: center;
+                                background-size: 12px;
+                                width: 12px;
+                                height: 12px;
+                                display: block;
+                                margin: auto;
+                                top: 2px;
+                                position: relative;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .main-sub-categories-card-box {
+            background-color: $light-gray-shade-3;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            .categories-img {
+                position: relative;
+                width: 100%;
+                height: 160px;
+                overflow: hidden;
+                position: relative;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    margin: auto;
+                    max-width: 100%;
+                    max-height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .categories-card-box-detail {
+                padding: 15px 27px 15px;
+                .categories-name {
+                    font-size: 24px;
+                    font-weight: bold;
+                    color: $black-shade-1;
+                    line-height: 32px;
+                    text-align: center;
+                }
+                .category-text-url {
+                    font-size: 12px;
+                    font-weight: normal;
+                    color: $gray;
+                    line-height: 26px;
+                    text-align: center;
+                }
+                .category-item-detail {
+                    font-size: 10px;
+                    font-weight: normal;
+                    color: $black-shade-2;
+                    line-height: 14px;
+                    text-align: center;
+                    margin: 12px 0px;
+                }
+                .white-card {
+                    padding: 20px 15px 20px;
+                    text-align: center;
+                    margin-bottom: 10px;
+                    display: flex;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    .main-progreesbar-info-wrp {
+                        display: flex;
+                        flex-direction: column;
+                        .progress-top-wrap {
+                            top: 0;
+                            display: flex;
+                            justify-content: space-between;
+                            flex-wrap: wrap;
+                            .progress-title {
+                                font-size: 21px;
+                                line-height: 25px;
+                                font-weight: bold;
+                                color: $black-shade-2;
+                                display: flex;
+                                flex-direction: column;
+                                text-align-last: left;
+                                .total-value {
+                                    font-size: 12px;
+                                    line-height: 14px;
+                                    font-weight: normal;
+                                    color: $gray;
+                                }
+                            }
+                            .progressbar-value {
+                                font-size: 25px;
+                                color: $gray;
+                            }
+                        }
+                    }
+                    .progress {
+                        &.cstm-progress {
+                            margin-top: 10px;
+                            margin-bottom: 0;
+                        }
+                    }
+                    .icon-wrap {
+                        width: 70px;
+                        height: 70px;
+                        margin: auto;
+                        margin-bottom: 5px;
+                    }
+                    .caption {
+                        font-size: 14px;
+                        font-weight: bold;
+                        margin: 15px auto;
+                    }
+                }
+                .btn-wrap {
+                    justify-content: space-between;
+                    display: flex;
+                    flex-wrap: wrap;
+                    margin-top: 25px;
+                    .btn {
+                        font-size: 14px;
+                        margin-bottom: 10px;
+                        line-height: 16px;
+                    }
+                }
+            }
+        }
+        .sub-categories-tab {
+            .tab-list-view {
+                .sub-categories-list-card {
+                    &.bg-gray-light {
+                        background-color: $light-gray-shade-3;
+                    }
+                    .table-cstm {
+                        margin-bottom: 0px;
+                        tr {
+                            td {
+                                font-size: 14px;
+                            }
+                        }
+                        .sub-categories-img {
+                            position: relative;
+                            width: 100px;
+                            height: 50px;
+                            overflow: hidden;
+                            position: relative;
+                            border-radius: 4px;
+                            img {
+                                width: 100%;
+                                height: 100%;
+                                position: absolute;
+                                top: 0;
+                                bottom: 0;
+                                left: 0;
+                                right: 0;
+                                margin: auto;
+                                max-width: 100%;
+                                max-height: 100%;
+                                object-fit: cover;
+                            }
+                        }
+                        .progresssbar-main-wrap {
+                            display: flex;
+                            flex-direction: row;
+                            flex-wrap: wrap;
+                            align-items: center;
+                            .progressbar-value {
+                                width: 40px;
+                                text-align: right;
+                                margin-right: 10px;
+                            }
+                            .progress {
+                                &.cstm-progress {
+                                    display: flex;
+                                    flex: 1 auto;
+                                    margin: 0;
+                                }
+                            }
+                        }
+                        .btn-wrap {
+                            .btn {
+                                font-size: 14px;
+                                line-height: 16px;
+                                height: 30px;
+                                width: 70px;
+                                margin: 5px 3px;
+                            }
+                        }
+                    }
+                }
+            }
+            .tab-grid-view {
+                .sub-categories-card-box {
+                    margin-bottom: 15px;
+                    .categories-img-with-name {
+                        height: 110px;
+                        .categories-name {
+                            font-size: 14px;
+                            line-height: 27px;
+                        }
+                    }
+                    .main-progreesbar-info-wrp {
+                        display: flex;
+                        flex-direction: column;
+                        .progress-top-wrap {
+                            display: flex;
+                            flex-direction: row;
+                            align-items: center;
+                            justify-content: space-between;
+                            .progress-title {
+                                font-size: 11px;
+                                line-height: normal;
+                                font-weight: bold;
+                                color: $black-shade-1;
+                            }
+                            .progressbar-value {
+                                font-size: 8px;
+                                line-height: normal;
+                                font-weight: normal;
+                                color: $gray;
+                            }
+                        }
+                        .progress {
+                            &.cstm-progress {
+                                margin-bottom: 10px;
+                                margin-top: 10px;
+                            }
+                        }
+                    }
+                    .btn-wrap {
+                        display: flex;
+                        justify-content: space-between;
+                        font-size: 14px;
+                        flex-wrap: wrap;
+                        margin: 0 -5px;
+                        .btn {
+                            min-width: auto;
+                            margin-bottom: 10px;
+                            font-size: 14px;
+                            line-height: 16px;
+                            margin: 0 5px 10px;
+                            display: flex;
+                            flex: 1 auto;
+                            align-items: center;
+                            flex-direction: column;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.add-category-modal {
+    .modal-dialog {
+        max-width: 600px;
+        .modal-content {
+            border: none;
+            border-radius: 10px;
+            .modal-body {
+                padding: 25px 26px;
+                @media (max-width: $small) {
+                    .titlebar {
+                        flex-direction: column;
+                        align-items: center;
+                        .title {
+                            margin-bottom: 15px;
+                        }
+                        .link-wrap {
+                            margin-bottom: 15px;
+                        }
+                    }
+                }
+                .cstm-row {
+                    margin-top: 20px;
+                    .col-md-4 {
+                        flex: 0 0 30%;
+                        max-width: 30%;
+                        @media (max-width: $small) {
+                            flex: 0 0 100%;
+                            max-width: 100%;
+                        }
+                    }
+                    .col-md-8 {
+                        flex: 0 0 70%;
+                        max-width: 70%;
+                        @media (max-width: $small) {
+                            flex: 0 0 100%;
+                            max-width: 100%;
+                        }
+                    }
+                }
+                .upload-u-img {
+                    max-width: 200px;
+                    width: 200px;
+                    height: 200px;
+                    position: relative;
+                    background: #e8eae9;
+                    border-radius: 5px;
+                    overflow: hidden;
+                    img {
+                        width: 100%;
+                        height: 100%;
+                        position: absolute;
+                        top: 0;
+                        bottom: 0;
+                        left: 0;
+                        right: 0;
+                        margin: auto;
+                        object-fit: cover;
+                    }
+                    input {
+                        position: absolute;
+                        height: 100%;
+                        width: 100%;
+                        top: 0;
+                        bottom: 0;
+                        left: 0;
+                        right: 0;
+                        clip: unset;
+                        opacity: 0;
+                        cursor: pointer;
+                    }
+                }
+                .form-layout-view-style {
+                    .form-group {
+                        margin-bottom: 10px;
+                        .small-label {
+                            font-size: 6px;
+                            margin-bottom: 10px;
+                            .tooltip-icon {
+                                img {
+                                    width: 10px;
+                                }
+                            }
+                        }
+                        .form-control {
+                            font-size: 16px;
+                            height: 30px;
+                            &.cstm-text-area {
+                                height: 60px;
+                            }
+                        }
+                        .mendetory-dot {
+                            font-size: 6px;
+                        }
+                        .validation-info {
+                            &.correct-icon {
+                                width: 8px;
+                                height: 7px;
+                            }
+                        }
+                    }
+                    .btn-sm-grp {
+                        margin-top: 30px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        margin-left: 0px;
+                        margin-right: -15px;
+                        padding-left: 0px;
+                        .btn {
+                            font-size: 18px;
+                            margin-right: 10px;
+                            margin-bottom: 0 !important;
+                            line-height: 26px;
+                            height: 40px;
+                            flex: auto;
+                            display: flex;
+                            flex-direction: column;
+                            margin-right: 0px;
+                            margin-left: 15px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &.add-subcategory-modal {
+        .modal-dialog {
+            .modal-content {
+                .modal-body {
+                    .upload-u-img {
+                        max-width: 200px;
+                        width: 200px;
+                        height: 105px;
+                    }
+                    .form-group {
+                        .multiselect {
+                            .multiselect-input {
+                                border: none;
+                                border-bottom: 1px solid $gray;
+                                border-radius: 0;
+                                .multiselect-placeholder {
+                                    padding-left: 0px;
+                                }
+                                .multiselect-tags {
+                                    max-height: 70px;
+                                    overflow-y: auto;
+                                    scroll-behavior: smooth;
+                                    touch-action: none;
+                                    z-index: auto;
+                                    &::-webkit-scrollbar-track {
+                                        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+                                        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+                                        border-radius: 10px;
+                                        background-color: #E8EAE9;
+                                    }
+                                    &::-webkit-scrollbar {
+                                        width: 4px;
+                                        height: 4px;
+                                        background-color: #E8EAE9;
+                                    }
+                                    &::-webkit-scrollbar-thumb {
+                                        border-radius: 10px;
+                                        -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+                                        box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+                                        background-color: $gray-shade-1;
+                                    }
+                                    .multiselect-tag {
+                                        background: $black-shade-1;
+                                        font-size: 12px;
+                                        i {
+                                            &::before {
+                                                color: $white;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            .multiselect-options {
+                                max-height: 150px !important;
+                                .multiselect-option {
+                                    padding: 5px 12px;
+                                    font-size: 14px;
+                                    min-height: 20px;
+                                    &:hover,
+                                    &.is-pointed {
+                                        background-color: $black-shade-1;
+                                        color: $white;
+                                    }
+                                    span {
+                                        font-size: 14px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

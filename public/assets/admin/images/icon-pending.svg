@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101010"/>
+      <stop offset="1" stop-color="#222"/>
+    </radialGradient>
+    <filter id="Ellipse_52" x="0" y="0" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_584" data-name="Group 584" transform="translate(-838.91 -260.91)">
+    <circle id="Ellipse_51" data-name="Ellipse 51" cx="10.5" cy="10.5" r="10.5" transform="translate(838.91 260.91)" opacity="0.151" fill="url(#radial-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 838.91, 260.91)" filter="url(#Ellipse_52)">
+      <circle id="Ellipse_52-2" data-name="Ellipse 52" cx="7.5" cy="7.5" r="7.5" transform="translate(3 3)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Rectangle_916" data-name="Rectangle 916" transform="translate(845.41 270.41)" stroke="#fff" stroke-width="1" fill="url(#radial-gradient)">
+      <rect width="8" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="7" height="1" fill="none"/>
+    </g>
+  </g>
+</svg>

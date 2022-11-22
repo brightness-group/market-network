@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.9" height="17.354" viewBox="0 0 32.9 17.354">
+  <g id="icon_arrow_left" transform="translate(31.4) rotate(90)">
+    <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M6.931,8.673.364,2.112A1.235,1.235,0,0,1,.364.36a1.251,1.251,0,0,1,1.757,0L9.561,7.8A1.238,1.238,0,0,1,9.6,9.505L2.126,16.992A1.24,1.24,0,0,1,.369,15.24Z" transform="translate(17.353 21.478) rotate(90)" fill="#101010"/>
+    <line id="Line_148" data-name="Line 148" y1="27.545" transform="translate(8.676 0)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

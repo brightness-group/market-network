@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.013" height="26.013" viewBox="0 0 26.013 26.013">
+  <g id="icon_checked" transform="translate(0.001)">
+    <path id="Icon_material-check-box-outline-blank" data-name="Icon material-check-box-outline-blank" d="M27.622,7.39V27.622H7.39V7.39H27.622m0-2.89H7.39A2.9,2.9,0,0,0,4.5,7.39V27.622a2.9,2.9,0,0,0,2.89,2.89H27.622a2.9,2.9,0,0,0,2.89-2.89V7.39A2.9,2.9,0,0,0,27.622,4.5Z" transform="translate(-4.501 -4.5)" fill="#101010"/>
+    <path id="Icon_metro-checkmark" data-name="Icon metro-checkmark" d="M15.231,5.784,8.2,12.5,4.915,9.366,2.571,11.6,8.2,16.977l9.378-8.954Z" transform="translate(2.935 1.627)" fill="#101010"/>
+  </g>
+</svg>

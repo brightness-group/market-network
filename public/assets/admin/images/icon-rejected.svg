@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <filter id="Ellipse_52" x="0" y="0" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_586" data-name="Group 586" transform="translate(-838.91 -260.91)">
+    <circle id="Ellipse_51" data-name="Ellipse 51" cx="10.5" cy="10.5" r="10.5" transform="translate(838.91 260.91)" fill="#101010" opacity="0.151"/>
+    <g transform="matrix(1, 0, 0, 1, 838.91, 260.91)" filter="url(#Ellipse_52)">
+      <circle id="Ellipse_52-2" data-name="Ellipse 52" cx="7.5" cy="7.5" r="7.5" transform="translate(3 3)" fill="#101010"/>
+    </g>
+    <path id="Icon_material-close" data-name="Icon material-close" d="M13.945,8.149,13.3,7.5l-2.574,2.574L8.149,7.5,7.5,8.149l2.574,2.574L7.5,13.3l.649.649,2.574-2.574L13.3,13.945l.649-.649-2.574-2.574Z" transform="translate(838.688 260.688)" fill="#fff" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

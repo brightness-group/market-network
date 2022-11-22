@@ -1,0 +1,19 @@
+body {
+    &.dark-mode {
+        background-color: $black-shade-1;
+        .tab-accordion-style {
+            .nav-tabs {
+                .nav-item {
+                    .nav-link {
+                        color: $gray;
+                        &.active,
+                        &:hover,
+                        &:focus {
+                            color: $white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

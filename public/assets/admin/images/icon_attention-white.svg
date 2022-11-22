@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.522" height="25.522" viewBox="0 0 25.522 25.522">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <filter id="Ellipse_52" x="0" y="0" width="25.522" height="25.522" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon_attention-white" transform="translate(0.072 0.07)">
+    <g id="Group_548" data-name="Group 548" transform="translate(0 0.001)">
+      <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="12.689" cy="12.689" rx="12.689" ry="12.689" transform="translate(0 0)" opacity="0.151" fill="url(#radial-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, -0.07, -0.07)" filter="url(#Ellipse_52)">
+        <ellipse id="Ellipse_52-2" data-name="Ellipse 52" cx="9.761" cy="9.761" rx="9.761" ry="9.761" transform="translate(3 3)" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_465" data-name="Path 465" d="M2.747-17.932H5.029V-15.2l-.591,5.017H3.352L2.747-15.2ZM2.8-9.327H4.971v2.108H2.8Z" transform="translate(8.929 25.139)" fill="#101010"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="Component_18_1" data-name="Component 18 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a1a1a"/>
+      <stop offset="1" stop-color="#222"/>
+    </radialGradient>
+    <filter id="Ellipse_52" x="0" y="0" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_232" data-name="Group 232" transform="translate(-838.91 -260.91)">
+    <circle id="Ellipse_51" data-name="Ellipse 51" cx="13" cy="13" r="13" transform="translate(838.91 260.91)" opacity="0.151" fill="url(#radial-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 838.91, 260.91)" filter="url(#Ellipse_52)">
+      <circle id="Ellipse_52-2" data-name="Ellipse 52" cx="10" cy="10" r="10" transform="translate(3 3)" fill="#1a1a1a"/>
+    </g>
+  </g>
+  <path id="Path_452" data-name="Path 452" d="M4.165-9.419H6.34v2.109H4.165ZM1.5-14.674a3.405,3.405,0,0,1,1.452-2.948,3.829,3.829,0,0,1,2.116-.555,4.559,4.559,0,0,1,2.74.788A2.7,2.7,0,0,1,8.9-15.053a2.636,2.636,0,0,1-.474,1.6,5.451,5.451,0,0,1-1.065,1.007l-.518.4a1.568,1.568,0,0,0-.562.766,3.229,3.229,0,0,0-.095.861H4.216a5.722,5.722,0,0,1,.234-1.7,3.007,3.007,0,0,1,.978-1.084l.533-.416a1.861,1.861,0,0,0,.423-.431,1.468,1.468,0,0,0,.292-.883,1.7,1.7,0,0,0-.325-1.011A1.362,1.362,0,0,0,5.165-16.4a1.307,1.307,0,0,0-1.2.562,2.161,2.161,0,0,0-.354,1.168Z" transform="translate(7.799 25.743)" fill="#fff"/>
+</svg>

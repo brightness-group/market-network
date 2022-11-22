@@ -1,0 +1,117 @@
+/** Web Fonts **/
+
+@import url("https://p.typekit.net/p.css?s=1&k=wwn7quu&ht=tk&f=255.1282&a=43164806&app=typekit&e=css");
+@font-face {
+    font-family: 'LilGrotesk';
+    src: url('../fonts/LilGrotesk-Bold.eot');
+    src: url('../fonts/LilGrotesk-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/LilGrotesk-Bold.woff2') format('woff2'), url('../fonts/LilGrotesk-Bold.woff') format('woff'), url('../fonts/LilGrotesk-Bold.ttf') format('truetype'), url('../fonts/LilGrotesk-Bold.svg#LilGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LilGrotesk';
+    src: url('../fonts/LilGrotesk-Regular.eot');
+    src: url('../fonts/LilGrotesk-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/LilGrotesk-Regular.woff2') format('woff2'), url('../fonts/LilGrotesk-Regular.woff') format('woff'), url('../fonts/LilGrotesk-Regular.ttf') format('truetype'), url('../fonts/LilGrotesk-Regular.svg#LilGrotesk-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Bold.eot');
+    src: url('../fonts/PublicSans-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Bold.woff2') format('woff2'), url('../fonts/PublicSans-Bold.woff') format('woff'), url('../fonts/PublicSans-Bold.ttf') format('truetype'), url('../fonts/PublicSans-Bold.svg#PublicSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Black.eot');
+    src: url('../fonts/PublicSans-Black.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Black.woff2') format('woff2'), url('../fonts/PublicSans-Black.woff') format('woff'), url('../fonts/PublicSans-Black.ttf') format('truetype'), url('../fonts/PublicSans-Black.svg#PublicSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-ExtraBold.eot');
+    src: url('../fonts/PublicSans-ExtraBold.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-ExtraBold.woff2') format('woff2'), url('../fonts/PublicSans-ExtraBold.woff') format('woff'), url('../fonts/PublicSans-ExtraBold.ttf') format('truetype'), url('../fonts/PublicSans-ExtraBold.svg#PublicSans-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-ExtraLight.eot');
+    src: url('../fonts/PublicSans-ExtraLight.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-ExtraLight.woff2') format('woff2'), url('../fonts/PublicSans-ExtraLight.woff') format('woff'), url('../fonts/PublicSans-ExtraLight.ttf') format('truetype'), url('../fonts/PublicSans-ExtraLight.svg#PublicSans-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Light.eot');
+    src: url('../fonts/PublicSans-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Light.woff2') format('woff2'), url('../fonts/PublicSans-Light.woff') format('woff'), url('../fonts/PublicSans-Light.ttf') format('truetype'), url('../fonts/PublicSans-Light.svg#PublicSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Medium.eot');
+    src: url('../fonts/PublicSans-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Medium.woff2') format('woff2'), url('../fonts/PublicSans-Medium.woff') format('woff'), url('../fonts/PublicSans-Medium.ttf') format('truetype'), url('../fonts/PublicSans-Medium.svg#PublicSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Regular.eot');
+    src: url('../fonts/PublicSans-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Regular.woff2') format('woff2'), url('../fonts/PublicSans-Regular.woff') format('woff'), url('../fonts/PublicSans-Regular.ttf') format('truetype'), url('../fonts/PublicSans-Regular.svg#PublicSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-SemiBold.eot');
+    src: url('../fonts/PublicSans-SemiBold.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-SemiBold.woff2') format('woff2'), url('../fonts/PublicSans-SemiBold.woff') format('woff'), url('../fonts/PublicSans-SemiBold.ttf') format('truetype'), url('../fonts/PublicSans-SemiBold.svg#PublicSans-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url('../fonts/PublicSans-Thin.eot');
+    src: url('../fonts/PublicSans-Thin.eot?#iefix') format('embedded-opentype'), url('../fonts/PublicSans-Thin.woff2') format('woff2'), url('../fonts/PublicSans-Thin.woff') format('woff'), url('../fonts/PublicSans-Thin.ttf') format('truetype'), url('../fonts/PublicSans-Thin.svg#PublicSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "sui-generis";
+    src: url("https://use.typekit.net/af/0f82c8/00000000000000007735961f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/0f82c8/00000000000000007735961f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/0f82c8/00000000000000007735961f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "sui-generis";
+    src: url("https://use.typekit.net/af/a2456e/00000000000000007735962b/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/a2456e/00000000000000007735962b/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/a2456e/00000000000000007735962b/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 700;
+}

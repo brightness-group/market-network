@@ -1,0 +1,68 @@
+<svg id="Customer_Growth" data-name="Customer Growth" xmlns="http://www.w3.org/2000/svg" width="323" height="326.746" viewBox="0 0 323 326.746">
+  <text id="_200" data-name="200" transform="translate(30 254)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.145" y="0">200</tspan></text>
+  <text id="_200-2" data-name="200" transform="translate(30 305)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-8.073" y="0">0</tspan></text>
+  <text id="_400" data-name="400" transform="translate(30 202.846)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.528" y="0">400</tspan></text>
+  <text id="_600" data-name="600" transform="translate(30 152.691)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.418" y="0">600</tspan></text>
+  <text id="_800" data-name="800" transform="translate(30 101.537)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.691" y="0">800</tspan></text>
+  <text id="_1k" data-name="1k" transform="translate(30 50)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-29.717" y="0">1000</tspan></text>
+  <rect id="Shape" width="280" height="1.344" transform="translate(43 43.656)" fill="#e8eae9"/>
+  <rect id="Shape-2" data-name="Shape" width="280" height="1.344" transform="translate(43 96.365)" fill="#e8eae9"/>
+  <rect id="Shape-3" data-name="Shape" width="280" height="1.344" transform="translate(43 146.848)" fill="#e8eae9"/>
+  <rect id="Shape-4" data-name="Shape" width="280" height="1.344" transform="translate(43 197.33)" fill="#e8eae9"/>
+  <rect id="Shape-5" data-name="Shape" width="280" height="1.344" transform="translate(43 247.813)" fill="#e8eae9"/>
+  <rect id="Shape-6" data-name="Shape" width="280" height="1.344" transform="translate(43 300.521)" fill="#e8eae9"/>
+  <text id="J" transform="translate(64.896 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-4.824" y="0">J</tspan></text>
+  <text id="F" transform="translate(88.914 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-7.362" y="0">F</tspan></text>
+  <text id="M" transform="translate(112.689 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-11.01" y="0">M</tspan></text>
+  <text id="A" transform="translate(132.582 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-8.718" y="0">A</tspan></text>
+  <text id="M-2" data-name="M" transform="translate(156.357 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-11.01" y="0">M</tspan></text>
+  <text id="J-2" data-name="J" transform="translate(175.5 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-4.824" y="0">J</tspan></text>
+  <text id="J-3" data-name="J" transform="translate(197 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-4.824" y="0">J</tspan></text>
+  <text id="A-2" data-name="A" transform="translate(221.5 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-8.718" y="0">A</tspan></text>
+  <text id="S" transform="translate(243 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-8.322" y="0">S</tspan></text>
+  <text id="O" transform="translate(265.5 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-9.126" y="0">O</tspan></text>
+  <text id="N" transform="translate(288 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-9.384" y="0">N</tspan></text>
+  <text id="D" transform="translate(309.5 323.746)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-8.64" y="0">D</tspan></text>
+  <path id="Rectangle_607" data-name="Rectangle 607" d="M4,0H4A4,4,0,0,1,8,4V106a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(59 196)" fill="#101010"/>
+  <path id="Rectangle_1911" data-name="Rectangle 1911" d="M4,0H4A4,4,0,0,1,8,4V114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(81 188)" fill="#101010"/>
+  <path id="Rectangle_1914" data-name="Rectangle 1914" d="M4,0H4A4,4,0,0,1,8,4V114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(103 188)" fill="#101010"/>
+  <path id="Rectangle_1917" data-name="Rectangle 1917" d="M4,0H4A4,4,0,0,1,8,4V118a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(125 184)" fill="#101010"/>
+  <path id="Rectangle_1920" data-name="Rectangle 1920" d="M4,0H4A4,4,0,0,1,8,4V127a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(147 175)" fill="#101010"/>
+  <path id="Rectangle_1923" data-name="Rectangle 1923" d="M4,0H4A4,4,0,0,1,8,4V127a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(169 175)" fill="#101010"/>
+  <path id="Rectangle_1927" data-name="Rectangle 1927" d="M4,0H4A4,4,0,0,1,8,4V127a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(191 175)" fill="#101010"/>
+  <path id="Rectangle_1929" data-name="Rectangle 1929" d="M4,0H4A4,4,0,0,1,8,4V134a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(213 168)" fill="#101010"/>
+  <path id="Rectangle_1933" data-name="Rectangle 1933" d="M4,0H4A4,4,0,0,1,8,4V145a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(235 157)" fill="#101010"/>
+  <path id="Rectangle_1937" data-name="Rectangle 1937" d="M4,0H4A4,4,0,0,1,8,4V149a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(257 153)" fill="#101010"/>
+  <path id="Rectangle_1938" data-name="Rectangle 1938" d="M4,0H4A4,4,0,0,1,8,4V159a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(279 143)" fill="#101010"/>
+  <path id="Rectangle_1942" data-name="Rectangle 1942" d="M4,0H4A4,4,0,0,1,8,4V165a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(301 137)" fill="#101010"/>
+  <rect id="Rectangle_610" data-name="Rectangle 610" width="8" height="18" rx="4" transform="translate(59 175)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1912" data-name="Rectangle 1912" width="8" height="22" rx="4" transform="translate(81 163)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1915" data-name="Rectangle 1915" width="8" height="22" rx="4" transform="translate(103 163)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1918" data-name="Rectangle 1918" width="8" height="25" rx="4" transform="translate(125 156)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1921" data-name="Rectangle 1921" width="8" height="27" rx="4" transform="translate(147 145)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1924" data-name="Rectangle 1924" width="8" height="27" rx="4" transform="translate(169 145)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1926" data-name="Rectangle 1926" width="8" height="20" rx="4" transform="translate(191 152)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1930" data-name="Rectangle 1930" width="8" height="12" rx="4" transform="translate(213 153)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1934" data-name="Rectangle 1934" width="8" height="23" rx="4" transform="translate(235 131)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1936" data-name="Rectangle 1936" width="8" height="23" rx="4" transform="translate(257 127)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1939" data-name="Rectangle 1939" width="8" height="20" rx="4" transform="translate(279 120)" fill="#7c7d7d"/>
+  <rect id="Rectangle_1941" data-name="Rectangle 1941" width="8" height="20" rx="4" transform="translate(301 114)" fill="#7c7d7d"/>
+  <rect id="Rectangle_611" data-name="Rectangle 611" width="8" height="8" rx="4" transform="translate(59 164)" fill="#e8eae9"/>
+  <rect id="Rectangle_1913" data-name="Rectangle 1913" width="8" height="8" rx="4" transform="translate(81 152)" fill="#e8eae9"/>
+  <rect id="Rectangle_1916" data-name="Rectangle 1916" width="8" height="8" rx="4" transform="translate(103 152)" fill="#e8eae9"/>
+  <rect id="Rectangle_1919" data-name="Rectangle 1919" width="8" height="8" rx="4" transform="translate(125 145)" fill="#e8eae9"/>
+  <rect id="Rectangle_1922" data-name="Rectangle 1922" width="8" height="10" rx="4" transform="translate(147 132)" fill="#e8eae9"/>
+  <rect id="Rectangle_1925" data-name="Rectangle 1925" width="8" height="10" rx="4" transform="translate(169 132)" fill="#e8eae9"/>
+  <rect id="Rectangle_1928" data-name="Rectangle 1928" width="8" height="13" rx="4" transform="translate(191 136)" fill="#e8eae9"/>
+  <rect id="Rectangle_1931" data-name="Rectangle 1931" width="8" height="13" rx="4" transform="translate(213 137)" fill="#e8eae9"/>
+  <rect id="Rectangle_1932" data-name="Rectangle 1932" width="8" height="13" rx="4" transform="translate(235 115)" fill="#e8eae9"/>
+  <rect id="Rectangle_1935" data-name="Rectangle 1935" width="8" height="9" rx="4" transform="translate(257 115)" fill="#e8eae9"/>
+  <rect id="Rectangle_1940" data-name="Rectangle 1940" width="8" height="12" rx="4" transform="translate(279 105)" fill="#e8eae9"/>
+  <rect id="Rectangle_1943" data-name="Rectangle 1943" width="8" height="12" rx="4" transform="translate(301 99)" fill="#e8eae9"/>
+  <rect id="Shape-7" data-name="Shape" width="10" height="10" rx="5" transform="translate(102 2)" fill="#7c7d7d"/>
+  <text id="Marketing_Sales" data-name="Marketing Sales" transform="translate(116 11)" fill="#101010" font-size="12" font-family="PublicSans-Regular, Public Sans" letter-spacing="0.007em"><tspan x="0" y="0">New users</tspan></text>
+  <rect id="Shape-8" data-name="Shape" width="10" height="10" rx="5" transform="translate(0 2)" fill="#101010"/>
+  <text id="Marketing_Sales-2" data-name="Marketing Sales" transform="translate(14 11)" fill="#101010" font-size="12" font-family="PublicSans-Regular, Public Sans" letter-spacing="0.007em"><tspan x="0" y="0">Active users</tspan></text>
+  <rect id="Shape-9" data-name="Shape" width="10" height="10" rx="5" transform="translate(193 2)" fill="#e8eae9"/>
+  <text id="Marketing_Sales-3" data-name="Marketing Sales" transform="translate(207 11)" fill="#101010" font-size="12" font-family="PublicSans-Regular, Public Sans" letter-spacing="0.007em"><tspan x="0" y="0">Inactive users</tspan></text>
+</svg>

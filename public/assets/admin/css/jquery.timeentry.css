@@ -1,0 +1,12 @@
+/* TimeEntry styles */
+
+.timeEntry_control {
+    vertical-align: middle;
+    margin-left: 2px;
+    background-image: url('../images/spiner-arrow.svg') !important;
+    background-size: 6px !important;
+    background-position: 4px 4px !important;
+    margin-top: 5px;
+    width: 10px !important;
+    height: 20px !important;
+}

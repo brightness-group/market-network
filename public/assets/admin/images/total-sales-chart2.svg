@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1191" height="394" viewBox="0 0 1191 394">
+  <defs>
+    <filter id="Rectangle_1905" x="0" y="0" width="1191" height="394" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG" x="740.5" y="134.5" width="169" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#44444f" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_117_1" data-name="Component 117 – 1" transform="translate(22 22)">
+    <g transform="matrix(1, 0, 0, 1, -22, -22)" filter="url(#Rectangle_1905)">
+      <rect id="Rectangle_1905-2" data-name="Rectangle 1905" width="1137" height="340" rx="10" transform="translate(22 22)" fill="#fff"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(1063.462 24.545)">
+      <text id="Jan" transform="translate(12 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-11.729" y="0">Dec</tspan></text>
+      <path id="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(12.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-2" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(974 24.545)">
+      <text id="Jan-2" data-name="Jan" transform="translate(12 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-11.752" y="0">Nov</tspan></text>
+      <path id="Shape-2" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(12.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-3" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(883 24.545)">
+      <text id="Jan-3" data-name="Jan" transform="translate(11 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-10.784" y="0">Oct</tspan></text>
+      <path id="Shape-3" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(11.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-4" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(790 24.545)">
+      <text id="Jan-4" data-name="Jan" transform="translate(12 290.455)" fill="#101010" font-size="13" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="-12.09" y="0">Sep</tspan></text>
+      <path id="Shape-4" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(12.5)" fill="#101010"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-5" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(700 24.545)">
+      <text id="Jan-5" data-name="Jan" transform="translate(12 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-12.369" y="0">Aug</tspan></text>
+      <path id="Shape-5" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(12.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-6" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(614 24.545)">
+      <text id="Jan-6" data-name="Jan" transform="translate(8 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-8.317" y="0">Jul</tspan></text>
+      <path id="Shape-6" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(8.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-7" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(522.75 24.545)">
+      <text id="Jan-7" data-name="Jan" transform="translate(10 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-10.114" y="0">Jun</tspan></text>
+      <path id="Shape-7" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(10.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-8" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(427 24.545)">
+      <text id="Jan-8" data-name="Jan" transform="translate(13 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-12.886" y="0">May</tspan></text>
+      <path id="Shape-8" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(13.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-9" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(339 24.545)">
+      <text id="Jan-9" data-name="Jan" transform="translate(11 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-11.076" y="0">Apr</tspan></text>
+      <path id="Shape-9" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(11.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-10" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(247 24.545)">
+      <text id="Jan-10" data-name="Jan" transform="translate(12 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-12.031" y="0">Mar</tspan></text>
+      <path id="Shape-10" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(12.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-11" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(157 24.545)">
+      <text id="Jan-11" data-name="Jan" transform="translate(11 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-11.339" y="0">Feb</tspan></text>
+      <path id="Shape-11" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(11.5)" fill="#e8eae9"/>
+    </g>
+    <g id="Widgets__Elements_Chart_Graph_-_Line_Bar-12" data-name="Widgets / _Elements / Chart / Graph - Line Bar" transform="translate(67 24.545)">
+      <text id="Jan-12" data-name="Jan" transform="translate(10 290.455)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500"><tspan x="-10.013" y="0">Jan</tspan></text>
+      <path id="Shape-12" data-name="Shape" d="M.011,263.455V0H.989V263.455Z" transform="translate(10.5)" fill="#e8eae9"/>
+    </g>
+    <text id="_200" data-name="200" transform="translate(63 265)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.145" y="0">200</tspan></text>
+    <text id="_400" data-name="400" transform="translate(63 206.846)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.528" y="0">400</tspan></text>
+    <text id="_600" data-name="600" transform="translate(63 148.689)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.418" y="0">600</tspan></text>
+    <text id="_800" data-name="800" transform="translate(63 90.535)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-24.691" y="0">800</tspan></text>
+    <text id="_1k" data-name="1k" transform="translate(63 34)" fill="#7c7d7d" font-size="13" font-family="PublicSans-Medium, Public Sans" font-weight="500" letter-spacing="0.007em"><tspan x="-29.717" y="0">1000</tspan></text>
+    <path id="Line" d="M0,110.369c4.938,3.327,42.59,8.167,64.193-3.63s40.738-5.445,62.959-3.025S156.779,77.7,181.469,74.07s55.552-23.022,92.586-27.559,34.566,22.417,83.328,26.349S419.724,49.266,441.945,41.4,474.041-2.3,511.076.117s55.552,26.667,86.414,29.692S634.524,52.9,663.534,67.718,719.086,84.355,755.5,81.33,801.8,47.721,819.079,46.511s32.714,13.374,47.528,16.7S885.741,81.33,917.221,81.33,945,87.077,962.279,86.17s29.628-9.377,35.183-13.31" transform="translate(78 111.883)" fill="none" stroke="#101010" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g transform="matrix(1, 0, 0, 1, -22, -22)" filter="url(#BG)">
+      <path id="BG-2" data-name="BG" d="M56,59H4.065A4.141,4.141,0,0,1,0,54.786V4.215A4.142,4.142,0,0,1,4.065,0H119.934A4.143,4.143,0,0,1,124,4.215V54.786A4.142,4.142,0,0,1,119.934,59H68l-6,6Z" transform="translate(763 152)" fill="#fff"/>
+    </g>
+    <text id="_750" data-name="$750" transform="translate(759 174)" fill="#101010" font-size="12" font-family="PublicSans-Bold, Public Sans" font-weight="700"><tspan x="0" y="0">576</tspan></text>
+    <text id="Titlee" transform="translate(754 155)" fill="#101010" font-size="12" font-family="PublicSans-SemiBold, Public Sans" font-weight="600"><tspan x="0" y="0">September, 2020</tspan></text>
+    <text id="Online_Sales" data-name="Online Sales" transform="translate(786 174)" fill="#7c7d7d" font-size="12" font-family="PublicSans-Regular, Public Sans"><tspan x="0" y="0">Seen Sales</tspan></text>
+  </g>
+</svg>
